@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="main_longtoast">Hi am an Anko Toast!!!</string>
+    <string name="main_alert_mensaje">Hello, ¿do you want Anko Alert?</string>
+    <string name="main_alert_titulo">ALERT</string>
+    <string name="main_alert_btn_positivo">:D Awesome!</string>
+    <string name="main_alert_btn_negativo">oh..</string>
+    <string name="main_alert_lista">¿Where you from?</string>
+</resources>

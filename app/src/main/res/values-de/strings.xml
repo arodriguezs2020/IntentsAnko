@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="main_longtoast">Hallo bin ein Anko Toast!!!</string>
+    <string name="main_alert_mensaje">Hallo, ¿möchtest du Anko Alert</string>
+    <string name="main_alert_titulo">ALERT</string>
+    <string name="main_alert_btn_positivo">:D Genial!</string>
+    <string name="main_alert_btn_negativo">oh..</string>
+    <string name="main_alert_lista">Woher sind Sie?</string>
+</resources>
